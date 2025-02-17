@@ -3,13 +3,6 @@
 
 <h1 align="center" style="font-weight: bold;">Jogo do número secreto 💻</h1>
  
-<div imgs display="inline-block" align-items="center">
- <h3>Tecnologias usadas:</h3>
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
 <p align="center">
     <a href="#about">Sobre</a> • 
     <a href="#colab">Colaboradores</a> •
@@ -18,6 +11,12 @@
 <p align="center">
     <img src="img/Jogo do Número Secreto.png" alt="Tela Inicial" width="400px">
 </p>
+<div imgs display="inline-block" align-items="center">
+ <h3>Tecnologias usadas:</h3>
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 <h2 id="started">📌 About</h2>
 
