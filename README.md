@@ -2,7 +2,7 @@
 [PROJECT__URL]: https://jogo-self-kappa-11.vercel.app/
 
 <h1 align="center" style="font-weight: bold;">Jogo do número secreto 💻</h1>
-###Tecnologias usadas:
+ ### Tecnologias usadas:
 <div imgs display="inline-block" align-items="center">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
