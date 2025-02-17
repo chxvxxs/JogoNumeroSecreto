@@ -1,14 +1,12 @@
-﻿[JAVASCRIPT__BADGE]: https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg
-[HTML_BADGE]: https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg
-[CSS_BADGE]: https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg
 [PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
 [PROJECT__URL]: https://jogo-self-kappa-11.vercel.app/
 
 <h1 align="center" style="font-weight: bold;">Jogo do número secreto 💻</h1>
-
-<img align="center" display="inline-block" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" display="inline-block" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" display="inline-block" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div imgs display="inline-block">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 <p align="center">
     <a href="#about">Sobre</a> • 
