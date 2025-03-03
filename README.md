@@ -30,7 +30,7 @@ Agradecimentos especiais aos colaboradores do projeto!
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/88739142?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+        <img src="https://avatars.githubusercontent.com/u/88739142?v=4" width="100px;" alt="Matheus Chaves Profile Picture"/><br>
         <sub>
           <b>Matheus Chaves</b>
         </sub>
